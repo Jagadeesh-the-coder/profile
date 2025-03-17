@@ -1,0 +1,38 @@
+
+body{
+    background-color:#8DEB99;
+    h1{
+        color: rgb(0, 0, 0);
+        background-color: rgb(239, 235, 230);
+        text-decoration: underline;
+        font-family:  sans-serif;
+        
+    }
+    button{
+        text-align: right;
+        color: white;
+        height: 30px;
+        background-color:#0f1111;
+
+    }
+    div{
+        text-align: center;
+    }
+   
+    a{
+        margin-right: 100px;
+        text-decoration: none;
+        background-color: #8DEB99;
+    }
+    #button{
+        text-align: right;
+        background-color:  rgb(239, 235, 230);
+        border-color: rgb(226, 22, 148);
+        border-width: 7px;
+        border-radius: 20px;
+    }
+    #skills{
+        border-radius: 15px;
+    }
+    
+}
